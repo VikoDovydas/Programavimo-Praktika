@@ -1,0 +1,17 @@
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\bin\Debug\AcademicSystem.exe
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\bin\Debug\AcademicSystem.exe.config
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.csproj.AssemblyReference.cache
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.AdminPage.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.Form1.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.ManageStudentsForm.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.Properties.Resources.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.StudentForm.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.StudentRegistrationForm.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.csproj.GenerateResource.cache
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.csproj.CoreCompileInputs.cache
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.exe
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.pdb
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\bin\Debug\AcademicSystem.pdb
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.LecturerRegistrationForm.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.ManageLecturersForm.resources
+C:\Users\98 LP\Desktop\C sharpas\AcademicSystem\obj\Debug\AcademicSystem.LecturerForm.resources
